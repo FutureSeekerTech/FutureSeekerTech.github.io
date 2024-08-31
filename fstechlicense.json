@@ -1,8 +1,14 @@
 [
     {
         "key" : "f4sekker",
-        "product" : "fs-mpjob",
+        "product" : "fs-guard",
         "ip" : ["103.18.35.77", "66.118.234.35"],
         "owner" : "FutureSeekerTech#666"
-    }
+    },
+    {
+        "key" : "SH5-QMS-5G1",
+        "product" : "fs-guard",
+        "ip" : ["104.234.180.82"],
+        "owner" : "Lexs"
+    },
 ]
