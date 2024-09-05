@@ -28,5 +28,11 @@
         "product": "fs-guard",
         "ip": ["66.206.27.174"],
         "owner": "rarwrar"
+    },
+    {
+        "key" : "HR4-J4K-9VR",
+        "product": "fs-guard",
+        "ip": ["103.190.46.242"],
+        "owner": "alfi_prtm"
     }
 ]
