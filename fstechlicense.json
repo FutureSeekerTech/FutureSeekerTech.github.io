@@ -34,5 +34,11 @@
         "product": "fs-guard",
         "ip": ["103.190.46.242"],
         "owner": "alfi_prtm"
+    },
+    {
+        "key" : "JSK-FRT-ASD",
+        "product": "garuda-ac",
+        "ip": ["103.18.35.77"],
+        "owner": "fstech"
     }
 ]
