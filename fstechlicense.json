@@ -36,6 +36,12 @@
         "owner": "alfi_prtm"
     },
     {
+        "key" : "JK4-H3R-3JC",
+        "product": "fs-guard",
+        "ip": ["167.172.92.249"],
+        "owner": "mrjujuri"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "garuda-ac",
         "ip": ["103.18.35.77"],
