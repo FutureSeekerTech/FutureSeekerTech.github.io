@@ -60,6 +60,18 @@
         "owner": "brave404"
     },
     {
+        "key" : "KL8-U2F-5GT",
+        "product": "fs-executor",
+        "ip": ["110.138.17.238"],
+        "owner": "onenilo"
+    },
+     {
+        "key" : "KL8-U2F-5GT",
+        "product": "fs-guard",
+        "ip": ["110.138.17.238"],
+        "owner": "onenilo"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "garuda-ac",
         "ip": ["103.18.35.77"],
