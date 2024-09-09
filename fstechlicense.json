@@ -18,6 +18,12 @@
         "owner" : "FutureSeeker"
     },
     {
+        "key" : "MFZ-JY1-LJR",
+        "product" : "fs-executor",
+        "ip" : ["66.118.234.35"],
+        "owner" : "FutureSeeker"
+    },
+    {
         "key" : "JT5-7BG-9FR",
         "product" : "fs-guard",
         "ip" : ["205.178.183.232", "77.83.241.129"],
@@ -40,6 +46,18 @@
         "product": "fs-guard",
         "ip": ["167.172.92.249"],
         "owner": "mrjujuri"
+    },
+    {
+        "key" : "GX8-N7L-2TG",
+        "product": "fs-guard",
+        "ip": ["104.234.180.111"],
+        "owner": "brave404"
+    },
+    {
+        "key" : "GX8-N7L-2TG",
+        "product": "fs-executor",
+        "ip": ["104.234.180.111"],
+        "owner": "brave404"
     },
     {
         "key" : "JSK-FRT-ASD",
