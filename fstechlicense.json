@@ -30,6 +30,12 @@
         "owner": "Dociluv"
     },
     {
+        "key" : "JT5-7BG-9FR",
+        "product" : "fs-executor",
+        "ip" : ["205.178.183.232", "77.83.241.129"],
+        "owner": "Dociluv"
+    },
+    {
         "key" : "G4H-3RK-7VR",
         "product": "fs-guard",
         "ip": ["66.206.27.174"],
