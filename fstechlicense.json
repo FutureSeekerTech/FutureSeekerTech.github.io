@@ -78,6 +78,18 @@
         "owner": "onenilo"
     },
     {
+        "key" : "NC7-F2S-8JT",
+        "product": "fs-executor",
+        "ip": ["104.234.180.123"],
+        "owner": "xxrbson"
+    },
+     {
+        "key" : "NC7-F2S-8JT",
+        "product": "fs-guard",
+        "ip": ["104.234.180.123"],
+        "owner": "xxrbson"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "garuda-ac",
         "ip": ["103.18.35.77"],
