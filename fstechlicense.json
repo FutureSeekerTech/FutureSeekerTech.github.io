@@ -103,6 +103,12 @@
     },
     {
         "key" : "JSK-FRT-ASD",
+        "product": "fs-guard",
+        "ip": ["103.18.35.77"],
+        "owner": "fstech"
+    }
+    {
+        "key" : "JSK-FRT-ASD",
         "product": "garuda-ac",
         "ip": ["103.18.35.77"],
         "owner": "fstech"
