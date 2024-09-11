@@ -90,6 +90,18 @@
         "owner": "xxrbson"
     },
     {
+        "key" : "126-S7C-1QE",
+        "product": "fs-executor",
+        "ip": ["104.234.180.248"],
+        "owner": "naufalsalvatrucha"
+    },
+     {
+        "key" : "126-S7C-1QE",
+        "product": "fs-guard",
+        "ip": ["104.234.180.248"],
+        "owner": "naufalsalvatrucha"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "garuda-ac",
         "ip": ["103.18.35.77"],
