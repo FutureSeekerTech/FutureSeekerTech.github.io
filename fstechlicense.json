@@ -80,13 +80,13 @@
     {
         "key" : "KL8-U2F-5GT",
         "product": "fs-executor",
-        "ip": ["180.243.6.178"],
+        "ip": ["103.107.199.17"],
         "owner": "onenilo"
     },
      {
         "key" : "KL8-U2F-5GT",
         "product": "fs-guard",
-        "ip": ["180.243.6.178"],
+        "ip": ["103.107.199.17"],
         "owner": "onenilo"
     },
     {
