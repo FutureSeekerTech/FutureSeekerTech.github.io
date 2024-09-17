@@ -14,13 +14,13 @@
     {
         "key" : "MFZ-JY1-LJR",
         "product" : "fs-guard",
-        "ip" : ["66.118.234.35"],
+        "ip" : ["66.118.234.35", "128.199.129.104"],
         "owner" : "FutureSeeker"
     },
     {
         "key" : "MFZ-JY1-LJR",
         "product" : "fs-executor",
-        "ip" : ["66.118.234.35"],
+        "ip" : ["66.118.234.35", "128.199.129.104"],
         "owner" : "FutureSeeker"
     },
     {
