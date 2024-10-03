@@ -120,6 +120,12 @@
         "owner": "dvelvet"
     },
     {
+        "key" : "K7V-GX7-8RB",
+        "product": "fs-guard",
+        "ip": ["45.158.126.18"],
+        "owner": "zeintobias"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "fs-guard",
         "ip": ["103.18.35.77"],
