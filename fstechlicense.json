@@ -80,8 +80,8 @@
     {
         "key" : "GX8-N7L-2TG",
         "product": "fs-executor",
-        "ip": ["104.234.180.111"],
-        "owner": "brave404"
+        "ip": ["45.158.126.18", "104.234.180.248"],
+        "owner": "zeintobias"
     },
     {
         "key" : "KL8-U2F-5GT",
