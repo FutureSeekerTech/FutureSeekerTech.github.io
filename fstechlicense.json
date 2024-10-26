@@ -12,6 +12,12 @@
         "owner" : "development"
     },
     {
+        "key" : "ZRC-HEF-K2I",
+        "product" : "fs-guard",
+        "ip" : ["104.234.180.248"],
+        "owner" : "alamandarp"
+    },
+    {
         "key" : "BC3-6TG-N2Z",
         "product" : "fs-guard",
         "ip" : ["180.254.75.16"],
