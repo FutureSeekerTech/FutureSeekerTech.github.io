@@ -2,7 +2,7 @@
     {
         "key" : "ABC-DEF-GHI",
         "product" : "fs-guard",
-        "ip" : ["103.18.35.77"],
+        "ip" : ["103.18.35.77", "180.241.47.196"],
         "owner" : "development"
     },
     {
