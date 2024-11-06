@@ -6,6 +6,12 @@
         "owner" : "development"
     },
     {
+        "key" : "JSK-FRT-ASD",
+        "product": "fs-guard",
+        "ip": ["66.118.234.181"],
+        "owner": "fstech"
+    },
+    {
         "key" : "ALK-7GZ-VR2",
         "product" : "fs-guard",
         "ip" : ["103.186.30.146"],
@@ -154,12 +160,6 @@
         "product": "fs-guard",
         "ip": ["45.158.126.18", "104.234.180.248"],
         "owner": "zeintobias"
-    },
-    {
-        "key" : "JSK-FRT-ASD",
-        "product": "fs-guard",
-        "ip": ["103.18.35.77", "66.118.234.181"],
-        "owner": "fstech"
     },
     {
         "key" : "JSK-FRT-ASD",
