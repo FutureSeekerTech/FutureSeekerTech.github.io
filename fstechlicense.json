@@ -6,6 +6,12 @@
         "owner" : "development"
     },
     {
+        "key" : "ATG-6HZ-L8T",
+        "product" : "fs-guard",
+        "ip" : ["157.10.73.15"],
+        "owner" : "nha6915"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "fs-guard",
         "ip": ["66.118.234.181"],
