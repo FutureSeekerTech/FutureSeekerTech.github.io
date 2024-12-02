@@ -168,6 +168,18 @@
         "owner": "zeintobias"
     },
     {
+        "key" : "U2R-XJ2-0KC",
+        "product": "fs-guard",
+        "ip": ["204.10.193.34"],
+        "owner": "ahmadyz"
+    },
+    {
+        "key" : "U2R-XJ2-0KC",
+        "product": "fs-executor",
+        "ip": ["204.10.193.34"],
+        "owner": "ahmadyz"
+    },
+    {
         "key" : "JSK-FRT-ASD",
         "product": "garuda-ac",
         "ip": ["103.18.35.77"],
