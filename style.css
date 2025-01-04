@@ -1,0 +1,202 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: sans-serif;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    padding: 1vh 2vw; /* Add padding to create gap from the left */
+    background-color: #000; /* Match the background color */
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 2vw;
+    transition: color 0.3s ease;
+}
+
+nav a:hover {
+    color: #FFE05A;
+}
+
+.logo {
+    width: 3vw; /* Adjust the width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    margin-right: 2vw; /* Add margin to separate logo from nav links */
+}
+
+.logo img {
+    width: 100%; /* Make the image fill the container */
+    height: auto; /* Maintain aspect ratio */
+}
+
+.section {
+    height: 100vh; /* Each section takes full viewport height */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-form {
+    width: 25vw;
+    border: 1px solid #fff;
+    padding: 2vh 2vw;
+}
+
+.section-1 {
+    background-color: #000; /* Background color for section 1 */
+}
+
+.section-2 {
+    background-color: #1B1B1B; /* Background color for section 2 */
+    padding: 2vh 2vw; /* Add padding to the section */
+    box-sizing: border-box; /* Ensure padding is included in the element's total width and height */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start (top) */
+    justify-content: flex-start; /* Align items to the start (top) */
+}
+
+.section-3 {
+    background-color: #272727; /* Background color for section 3 */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2vh 2vw; /* Add padding to the section */
+    box-sizing: border-box; /* Ensure padding is included in the element's total width and height */
+}
+
+h1 {
+    margin: 1vh 0; /* Adjust margin to reduce gap */
+    text-align: center;
+    font-size: 2.5vw;
+}
+
+.section-2 h1 {
+    text-align: left; /* Align title to the left */
+    margin: 0; /* Remove default margin */
+    padding-left: 2vw; /* Add padding to create gap from the left */
+    font-size: 2.5vw; /* Set font size to 2.5vw */
+}
+
+.section-2 p {
+    text-align: left; /* Align paragraph to the left */
+    margin: 1vh 0 1vh 0; /* Adjust margin to reduce gap */
+    max-width: 60vw; /* Set maximum width for the paragraph */
+    padding-left: 2vw; /* Add padding to create gap from the left */
+    font-size: 1.2vw; /* Set font size to 1.2vw */
+}
+
+p {
+    margin: 0.5vh 0; /* Adjust margin to reduce gap */
+    text-align: center;
+    font-size: 1.2vw;
+}
+
+button {
+    background-color: #FFE05A;
+    color: #000;
+    border: none;
+    padding: 1vh 2vw;
+    border-radius: 0.5vw;
+    margin: 1vh; /* Adjust margin to reduce gap */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button:hover {
+    background-color: #f00;
+}
+
+.card-container {
+    display: flex;
+    justify-content: center; /* Center the card container */
+    width: 100vw; /* Ensure the container takes full width */
+    margin-top: 10vh; /* Adjust margin to reduce gap */
+}
+
+.card {
+    background-color: #fff;
+    color: #000;
+    padding: 0; /* Remove padding */
+    width: 309.73px; /* Set the width to 309.73px */
+    height: 430px; /* Set the height to 430px */
+    margin: 0 2vw; /* Add margin between cards */
+    box-sizing: border-box; /* Include padding and border in the element's total width and height */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align items to the start (top) */
+}
+
+.card img {
+    width: 100%; /* Make the image fill the container */
+    height: 309.73px; /* Set the height to 309.73px */
+    object-fit: cover; /* Ensure the image covers the area */
+    margin: 0; /* Remove default margin */
+}
+
+.card h2, .card p {
+    margin: 0.5rem 1rem; /* Adjust margin to add space around the title and description */
+    text-align: left; /* Align text to the left */
+    padding-left: 0; /* Ensure no extra padding */
+}
+
+.card h2 {
+    font-size: 18px; /* Set font size to 18px */
+}
+
+.card p {
+    font-size: 14px; /* Set font size to 14px */
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    gap: 1vw; /* Add gap between buttons */
+}
+
+.discord-button {
+    width: 12vw; /* Set the width to 12vw */
+    background-color: #5765EC; /* Discord button color */
+    color: #fff;
+}
+
+.documentation-button {
+    width: 12vw; /* Set the width to 12vw */
+    background-color: red; /* Documentation button color */
+    color: #fff;
+}
+
+.github-button {
+    width: 12vw; /* Set the width to 12vw */
+    background-color: #fff; /* GitHub button color */
+    color: #000;
+}
+
+.button-container button i {
+    margin-right: 0.5vw; /* Add space between icon and text */
+}
