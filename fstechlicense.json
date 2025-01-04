@@ -1,1 +1,8 @@
-[]
+[
+  {
+        "key" : "ABC-DEF-GHI",
+        "product" : "fs-guard",
+        "ip" : ["1.1.1.1"],
+        "owner" : "development"
+  }
+]
